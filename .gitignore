@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!init.el
+!config.org
+!early-init.el
+!eshell
+!eshell/*
+!images
+!images/*
+!scripts
+!scripts/*
